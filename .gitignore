@@ -1,0 +1,6 @@
+service-account-key.json
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
+terraform_1.7.5_windows_amd64/
+terraform_1.7.5_windows_amd64.zip
